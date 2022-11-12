@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Portfolio of Nehemiah J. Solis</title>
+		<title>Portfolio of Rajeev Vhanhuve</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -19,7 +19,7 @@
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>Nehemiah John<br />
+						<h1>Rajeev Vhanhuve<br />
 						Solis</h1>
 						<p>Avid data scientist, former petroleum engineer, history enthusiast.</p>
 						<ul class="actions">
