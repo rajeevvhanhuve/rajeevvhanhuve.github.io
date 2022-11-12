@@ -1,0 +1,41 @@
+#Edit the template
+
+Double-click on the index.html file. Then, click on the pen icon to edit the text. You can search the index.html file for specific wording, and then replace it with your own information.
+
+Now, you'll customize it! Follow the instructions below, which correspond with the screencast above.
+
+Search for "PUT YOUR NAME HERE." in the title tag. Replace that phrase with your name.
+
+Search for "YOUR NAME HERE." Replace that phrase with your name.
+
+Search for "INTRO ABOUT WHAT YOU HAVE DONE IN DATA SCIENCE." Replace that phrase with a few sentences in your own words about what you've learned in the Data Science program.
+
+Search for "DESCRIBE PROJECT." Replace that phrase with 1 or 2 brief sentences about your project.
+
+But which projects? It's still early in the program, and you've already got some great wares to show. Make sure to include these assets:
+
+First capstone
+
+SQL Colab work
+
+Experimental design work
+
+Later on in the course, other assets you will want to include are:
+
+Supervised learning capstone
+
+Unsupervised learning capstone
+
+Final capstone
+
+Next to "DESCRIBE PROJECT," you'll find a place to put in the URL of your project. (If you don't see it, you can search for it by looking for the "putlinkhere" phrase.) You can use a Google Drive link that you've created for your project. Make the Google Drive file publicly accessible and able to be viewed by anyone with the link.
+
+Next to the URL, you'll find a place to title your project: "PROJECT NAME 1." Make sure to change this to the title of your project.
+
+You'll find 3 of these for 3 projects. Make sure you change all of them! You can also copy and paste another line, <p>DESCRIBE PROJECT<br><a href="putlinkhere">PROJECT NAME 4</a></p>, as you create more projects. Just make sure you update the information!
+
+Search for "PUT INFO ABOUT YOU HERE." Replace this phrase with information about yourself that you want to share.
+
+Finally, search for "LINKEDIN URL HERE," and "GITHUB URL HERE." Replace them with your LinkedIn, and GitHub profile URL links.
+
+To save, go to the bottom of the webpage and click on the green Commit Changes button. Leave the "Commit directly to the master branch" selected.<p>DESCRIBE PROJECT<br><a href="putlinkhere">PROJECT NAME 3</a></p>
